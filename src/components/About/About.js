@@ -1,0 +1,15 @@
+import React, { Component } from 'react';
+
+class About extends Component {
+
+  render() {
+    return (
+      <div class="About">
+        <h2>About</h2>
+        <p>We are actors working with actors and we react to things.</p>
+      </div>
+    ); // end return
+  } // end render
+} // end About component
+
+export default About;
