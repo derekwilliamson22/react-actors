@@ -4,7 +4,7 @@ class Footer extends Component {
 
   render() {
     return (
-      <div class="Footer">
+      <div className="Footer">
         <h2>&copy; React Actors</h2>
       </div>
     ); // end return

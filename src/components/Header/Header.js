@@ -4,7 +4,7 @@ class Header extends Component {
 
   render() {
     return (
-      <div class="Header">
+      <div className="Header">
         <h1>React Actors</h1>
       </div>
     ); // end return
